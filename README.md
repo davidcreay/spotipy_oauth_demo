@@ -1,4 +1,4 @@
-# Simple demo for spotipy OAuth workflow
+# Simple demo for Spotify OAuth workflow
 
 Install dependencies with
 
